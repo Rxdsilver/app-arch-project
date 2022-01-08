@@ -18,3 +18,5 @@ Install process :
 5 - Type "ng serve" in the Terminal
 
 6 - Open the web browser and follow this link : localhost:4200/
+
+Note: Edit the log4j.properties file to change the destination of logs 
