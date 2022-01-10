@@ -3,7 +3,7 @@ Requierements :
 - Eclipse (Java IDE)
 - MySQL 8.0 (Database)
 - Web browser
-- Node.js
+- Node.js (with npm)
 
 Install process :
 
